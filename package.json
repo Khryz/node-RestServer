@@ -1,0 +1,15 @@
+{
+  "name": "07-restserver",
+  "version": "1.0.0",
+  "description": "1.- Instalar mongoDB\r \thttps://docs.mongodb.com/master/tutorial/install-mongodb-on-windows-unattended/\r 2..- Instalar Robo3T\r 3.- Tener corriendo mongod.exe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
